@@ -24,6 +24,14 @@ def processa_msg_cliente(msg, con, cliente):
                 con.send(dados)
         except Exception as e:
             con.send(str.encode('-ERR {}\n'.format(e)))
+    elif msg[0].upper() == 'CWD':
+        nome_dir = " ".join(msg[1:])
+        print('Arquivo solicitado:', nome_dir)
+        try:
+            os.chdir(nome_dir)
+            con.send(str.encode('+OK\n'))
+        except Exception as e:
+            con.send(str.encode('-ERR {}\n'.format(e)))
     elif msg[0].upper() == 'LIST':
         lista_arq = os.listdir('.')
         con.send(str.encode('+OK {}\n'.format(len(lista_arq))))
