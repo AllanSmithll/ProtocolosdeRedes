@@ -4,7 +4,7 @@
     <img width="90px" src="https://cdn-icons-png.flaticon.com/512/2177/2177352.png" alt="Logo do projeto: Protocolos de Redes">
 </p>
 
-<h2 align="center">O que é esse repositório ou projeto?</h1>
+<h2 style="text-align: center">O que é esse repositório ou projeto?</h1>
 
 O repositório **Protocolos de Redes** foi criado para abrigar os códigos das aulas de programação das disciplina de Protocolos e Interconexão de Redes de Computadores, do curso Sistemas para Internet, do Instituto Federal de Educação, Ciência e Tecnologia da Paraíba.
 
@@ -12,11 +12,10 @@ O repositório **Protocolos de Redes** foi criado para abrigar os códigos das a
 <br/>
 
 ## Protocolos de rede disponíveis nesse repositório:
-| nome do protocolo de rede | status               |
+| Protocolo ou tipo de comunicação | status               |
 |---------------------------|----------------------|
-| webdav                    | implementar exemplo  |
-| ftp                       | implementar exemplo  |
-| sockets                   | exemplo implementado |
+|         Sockets           | exemplo implementado |
+|           BTP             | exemplo implementado |
 
 <br/>
 
