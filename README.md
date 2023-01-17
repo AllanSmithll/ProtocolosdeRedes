@@ -6,10 +6,13 @@
 
 <h4 align="center">Protocolos de Redes</h1>
 
-<br/>
+<h2 align="center">O que é esse repositório ou projeto?</h1>
 
-## O que é esse repositório ou projeto?
-Repositório criado para abrigar os códigos das aulas de programação das disciplina de Protocolos e Interconexão de Redes de Computadores, do curso Sistemas para Internet, do Instituto Federal de Educação, Ciência e Tecnologia da Paraíba.
+<p align="center">
+O repositório **Protocolos de Redes** foi criado para abrigar os códigos das aulas de programação das disciplina de Protocolos e Interconexão de Redes de Computadores, do curso Sistemas para Internet, do Instituto Federal de Educação, Ciência e Tecnologia da Paraíba.
+</p>
+
+<br/>
 
 ## Protocolos de rede disponíveis nesse repositório:
 | nome do protocolo de rede | status               |
@@ -18,11 +21,17 @@ Repositório criado para abrigar os códigos das aulas de programação das disc
 | ftp                       | implementar exemplo  |
 | sockets                   | exemplo implementado |
 
+<br/>
+
 ## Licença
 - A licença do código fonte é MIT.
 - A [logo](https://www.flaticon.com/free-icon/internet_2177352?related_id=2177382&origin=search) desse projeto possui a licença ["Flaticon License"](https://www.flaticon.com/) que implica na utilização do uso pessoal e comercial com atribuição. A logo foi criada ou disponibilizada por [freepik](https://www.flaticon.com/authors/freepik) no site [Flaticon](https://www.flaticon.com/).
+
+<br/>
 
 ## Colaboradores
 <a href="https://github.com/AllanSmithll/ProtocolosdeRedes/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=AllanSmithll/ProtocolosdeRedes" />
 </a>
+
+<br/>
