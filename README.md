@@ -8,9 +8,8 @@
 
 <h2 align="center">O que é esse repositório ou projeto?</h1>
 
-<p align="center">
 O repositório **Protocolos de Redes** foi criado para abrigar os códigos das aulas de programação das disciplina de Protocolos e Interconexão de Redes de Computadores, do curso Sistemas para Internet, do Instituto Federal de Educação, Ciência e Tecnologia da Paraíba.
-</p>
+
 
 <br/>
 
