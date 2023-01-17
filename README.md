@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100px" src="https://cdn-icons-png.flaticon.com/512/2177/2177352.png" alt="Logo do projeto: Protocolos de Redes">
+    <img width="90px" src="https://cdn-icons-png.flaticon.com/512/2177/2177352.png" alt="Logo do projeto: Protocolos de Redes">
 </p>
 
 <h4 align="center">Protocolos de Redes</h1>
